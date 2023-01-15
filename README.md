@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #### Hey! Want to upgrade this project into latest version of laravel and ReactJS? If so, Let me know in the email and if possible, sponsor me.
 
 ## Advance E-commerce website in  Laravel 7
@@ -110,3 +111,6 @@ Many more....
 
 
 
+=======
+# advance-ecommerce
+>>>>>>> f0058f21e199715c899b7f225ebc6db20c628972
