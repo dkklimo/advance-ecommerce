@@ -1,19 +1,7 @@
-<<<<<<< HEAD
-#### Hey! Want to upgrade this project into latest version of laravel and ReactJS? If so, Let me know in the email and if possible, sponsor me.
-
-## Advance E-commerce website in  Laravel 7
 
 
-#### Setup video : https://www.youtube.com/watch?v=URX5D1A5XQ4&t=19s
+## Advance E-commerce website in  Laravel 8
 
-#### Demo video :
-https://youtu.be/c5a_wrvJSJo
-
-#### Full tutorial :
-https://www.youtube.com/watch?v=FdAMucaks64&list=PLIFG3IUe1Zxo8Zvju3_kJJvoKSaIP_SC_&index=1&t=44s
-
-#### MERN ecommerce demo:
-https://youtu.be/b_xbF_XGIDI
 
 ### Features :
 - ##### PWA (progressive web app)
